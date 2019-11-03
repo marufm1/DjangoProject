@@ -1,1 +1,1 @@
-# Learning-Management-System-LMS-
+# Course-Management-System-LMS-
